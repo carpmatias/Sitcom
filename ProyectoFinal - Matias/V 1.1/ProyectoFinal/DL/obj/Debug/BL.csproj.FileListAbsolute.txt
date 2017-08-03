@@ -110,3 +110,17 @@ E:\Facultad\5to Año\Proyecto Final\ProyectoFinal - Matias\V 1.1\ProyectoFinal\D
 E:\Facultad\5to Año\Proyecto Final\ProyectoFinal - Matias\V 1.1\ProyectoFinal\DL\obj\Debug\BL.csprojResolveAssemblyReference.cache
 E:\Facultad\5to Año\Proyecto Final\ProyectoFinal - Matias\V 1.1\ProyectoFinal\DL\obj\Debug\DL.dll
 E:\Facultad\5to Año\Proyecto Final\ProyectoFinal - Matias\V 1.1\ProyectoFinal\DL\obj\Debug\DL.pdb
+E:\Facultad\5to Año\Proyecto Final\Proyecto Final - Sitcom\ProyectoFinal - Matias\V 1.1\ProyectoFinal\DL\bin\Debug\DL.dll.config
+E:\Facultad\5to Año\Proyecto Final\Proyecto Final - Sitcom\ProyectoFinal - Matias\V 1.1\ProyectoFinal\DL\bin\Debug\DL.dll
+E:\Facultad\5to Año\Proyecto Final\Proyecto Final - Sitcom\ProyectoFinal - Matias\V 1.1\ProyectoFinal\DL\bin\Debug\DL.pdb
+E:\Facultad\5to Año\Proyecto Final\Proyecto Final - Sitcom\ProyectoFinal - Matias\V 1.1\ProyectoFinal\DL\bin\Debug\BussinesEntities.dll
+E:\Facultad\5to Año\Proyecto Final\Proyecto Final - Sitcom\ProyectoFinal - Matias\V 1.1\ProyectoFinal\DL\bin\Debug\DAL.dll
+E:\Facultad\5to Año\Proyecto Final\Proyecto Final - Sitcom\ProyectoFinal - Matias\V 1.1\ProyectoFinal\DL\bin\Debug\EntityFramework.dll
+E:\Facultad\5to Año\Proyecto Final\Proyecto Final - Sitcom\ProyectoFinal - Matias\V 1.1\ProyectoFinal\DL\bin\Debug\EntityFramework.SqlServer.dll
+E:\Facultad\5to Año\Proyecto Final\Proyecto Final - Sitcom\ProyectoFinal - Matias\V 1.1\ProyectoFinal\DL\bin\Debug\BussinesEntities.pdb
+E:\Facultad\5to Año\Proyecto Final\Proyecto Final - Sitcom\ProyectoFinal - Matias\V 1.1\ProyectoFinal\DL\bin\Debug\DAL.pdb
+E:\Facultad\5to Año\Proyecto Final\Proyecto Final - Sitcom\ProyectoFinal - Matias\V 1.1\ProyectoFinal\DL\bin\Debug\EntityFramework.xml
+E:\Facultad\5to Año\Proyecto Final\Proyecto Final - Sitcom\ProyectoFinal - Matias\V 1.1\ProyectoFinal\DL\bin\Debug\EntityFramework.SqlServer.xml
+E:\Facultad\5to Año\Proyecto Final\Proyecto Final - Sitcom\ProyectoFinal - Matias\V 1.1\ProyectoFinal\DL\obj\Debug\BL.csprojResolveAssemblyReference.cache
+E:\Facultad\5to Año\Proyecto Final\Proyecto Final - Sitcom\ProyectoFinal - Matias\V 1.1\ProyectoFinal\DL\obj\Debug\DL.dll
+E:\Facultad\5to Año\Proyecto Final\Proyecto Final - Sitcom\ProyectoFinal - Matias\V 1.1\ProyectoFinal\DL\obj\Debug\DL.pdb

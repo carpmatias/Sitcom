@@ -66,3 +66,13 @@ E:\Facultad\5to Año\Proyecto Final\ProyectoFinal - Matias\V 1.1\ProyectoFinal\D
 E:\Facultad\5to Año\Proyecto Final\ProyectoFinal - Matias\V 1.1\ProyectoFinal\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
 E:\Facultad\5to Año\Proyecto Final\ProyectoFinal - Matias\V 1.1\ProyectoFinal\DAL\obj\Debug\DAL.dll
 E:\Facultad\5to Año\Proyecto Final\ProyectoFinal - Matias\V 1.1\ProyectoFinal\DAL\obj\Debug\DAL.pdb
+E:\Facultad\5to Año\Proyecto Final\Proyecto Final - Sitcom\ProyectoFinal - Matias\V 1.1\ProyectoFinal\DAL\bin\Debug\DAL.dll.config
+E:\Facultad\5to Año\Proyecto Final\Proyecto Final - Sitcom\ProyectoFinal - Matias\V 1.1\ProyectoFinal\DAL\bin\Debug\DAL.dll
+E:\Facultad\5to Año\Proyecto Final\Proyecto Final - Sitcom\ProyectoFinal - Matias\V 1.1\ProyectoFinal\DAL\bin\Debug\DAL.pdb
+E:\Facultad\5to Año\Proyecto Final\Proyecto Final - Sitcom\ProyectoFinal - Matias\V 1.1\ProyectoFinal\DAL\bin\Debug\EntityFramework.dll
+E:\Facultad\5to Año\Proyecto Final\Proyecto Final - Sitcom\ProyectoFinal - Matias\V 1.1\ProyectoFinal\DAL\bin\Debug\EntityFramework.SqlServer.dll
+E:\Facultad\5to Año\Proyecto Final\Proyecto Final - Sitcom\ProyectoFinal - Matias\V 1.1\ProyectoFinal\DAL\bin\Debug\EntityFramework.xml
+E:\Facultad\5to Año\Proyecto Final\Proyecto Final - Sitcom\ProyectoFinal - Matias\V 1.1\ProyectoFinal\DAL\bin\Debug\EntityFramework.SqlServer.xml
+E:\Facultad\5to Año\Proyecto Final\Proyecto Final - Sitcom\ProyectoFinal - Matias\V 1.1\ProyectoFinal\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+E:\Facultad\5to Año\Proyecto Final\Proyecto Final - Sitcom\ProyectoFinal - Matias\V 1.1\ProyectoFinal\DAL\obj\Debug\DAL.dll
+E:\Facultad\5to Año\Proyecto Final\Proyecto Final - Sitcom\ProyectoFinal - Matias\V 1.1\ProyectoFinal\DAL\obj\Debug\DAL.pdb
